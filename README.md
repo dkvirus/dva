@@ -27,7 +27,7 @@ dva 的开发模式不同于传统页面的开发，学习起来有一定的技�
 - 初识 dva
     - [dva 简介](https://github.com/dkvirus/dva/blob/master/book/dva/dva%20%E7%AE%80%E4%BB%8B.md "dva 简介")
     - [创建一个 dva 脚手架工程](https://github.com/dkvirus/dva/blob/master/book/dva/%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%20dva%20%E8%84%9A%E6%89%8B%E6%9E%B6%E5%B7%A5%E7%A8%8B.md "创建一个 dva 脚手架工程")
-    - dva 脚手架目录分析
+    - [脚手架目录分析](https://github.com/dkvirus/dva/blob/master/book/dva/dva%20%E8%84%9A%E6%89%8B%E6%9E%B6%E7%9B%AE%E5%BD%95%E5%88%86%E6%9E%90.md "脚手架目录分析")
 - 语言基础
     - ES6
     - React
