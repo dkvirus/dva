@@ -86,4 +86,4 @@ nvm —— 管理 Node 版本（包括下载 Node,切换 Node 版本）
 
 ---
 
-下一节：1.2 使用 nvm 安装 npm
+下一节：[1.2 使用 nvm 安装 npm](https://github.com/dkvirus/dva/blob/master/book/npm/2.1%20%E4%BD%BF%E7%94%A8%20nvm%20%E5%AE%89%E8%A3%85%20npm.md "1.2 使用 nvm 安装 npm")
