@@ -8,8 +8,8 @@
     - [npm init 创建 package.json](https://github.com/dkvirus/dva/blob/master/book/npm/3.1%20npm%20init%20%E4%BD%BF%E7%94%A8.md "npm init 创建 package.json")
     - package.json 详解
 - npm 包管理工具
-    - 区分全局安装与本地安装
-    - 安装模块
+    - [区分全局安装与本地安装](https://github.com/dkvirus/dva/blob/master/book/npm/4.1%20%E5%8C%BA%E5%88%86%E5%85%A8%E5%B1%80%E5%AE%89%E8%A3%85%E4%B8%8E%E6%9C%AC%E5%9C%B0%E5%AE%89%E8%A3%85.md "区分全局安装与本地安装")
+    - [安装模块](https://github.com/dkvirus/dva/blob/master/book/npm/4.2%20%E5%AE%89%E8%A3%85%E6%A8%A1%E5%9D%97.md "安装模块")
     - 卸载模块
     - 更新模块
     - 查看模块
