@@ -25,18 +25,18 @@ dva 的开发模式不同于传统页面的开发，学习起来有一定的技�
 
 # 目录
 - 初识 dva
-    - [dva 简介](https://github.com/dkvirus/dva/blob/master/book/dva/dva%20%E7%AE%80%E4%BB%8B.md "dva 简介")
-    - [创建一个 dva 脚手架工程](https://github.com/dkvirus/dva/blob/master/book/dva/%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%20dva%20%E8%84%9A%E6%89%8B%E6%9E%B6%E5%B7%A5%E7%A8%8B.md "创建一个 dva 脚手架工程")
-    - [脚手架目录分析](https://github.com/dkvirus/dva/blob/master/book/dva/dva%20%E8%84%9A%E6%89%8B%E6%9E%B6%E7%9B%AE%E5%BD%95%E5%88%86%E6%9E%90.md "脚手架目录分析")
+    - [dva 简介](/doc/dva/dva 简介.md)
+    - [创建一个 dva 脚手架工程](/doc/dva/dva 脚手架目录分析.md)
+    - [脚手架目录分析](/doc/dva/创建一个 dva 脚手架工程.md)
 - 语言基础
     - ES6
     - React
 - 工具
-    - [包管理工具 Npm](https://github.com/dkvirus/dva/blob/master/book/npm/npm%20%E7%9B%AE%E5%BD%95.md "包管理工具 Npm")	    
-    - 版本控制工具 Git
+    - [包管理工具 Npm](/doc/npm/npm 目录.md)	    
+    - [版本控制工具 Git](/doc/git/0 目录.md)
     - 开发工具 Webstorm
     - 项目启动打包工具 Roadhog
-    - 代码格式化工具 ESLint
+    - [代码格式化工具 ESLint](/doc/eslint/Eslint 超简单入门教程.md)
     - 前后台接口规范工具 Swagger
     - es6 编译工具 Babel
     - 模拟后台提供接口工具 json-server
