@@ -25,7 +25,7 @@ dva 的开发模式不同于传统页面的开发，学习起来有一定的技�
 
 # 目录
 - 初识 dva
-    - [dva 简介](/doc/dva/dva 简介.md)
+    - [dva 简介](doc/dva/dva 简介.md)
     - [创建一个 dva 脚手架工程](/doc/dva/dva 脚手架目录分析.md)
     - [脚手架目录分析](/doc/dva/创建一个 dva 脚手架工程.md)
 - 语言基础
