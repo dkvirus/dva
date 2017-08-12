@@ -34,7 +34,7 @@ dva 的开发模式不同于传统页面的开发，学习起来有一定的技�
 - 工具
     - [包管理工具 Npm](https://github.com/dkvirus/dva/blob/master/doc/npm/npm%20%E7%9B%AE%E5%BD%95.md)	    
     - [版本控制工具 Git](https://github.com/dkvirus/dva/blob/master/doc/git/0%20%E7%9B%AE%E5%BD%95.md)
-    - 开发工具 Webstorm
+    - [开发工具 Webstorm](/doc/webstorm/install.md)
     - 项目启动打包工具 Roadhog
     - [代码格式化工具 ESLint](https://github.com/dkvirus/dva/blob/master/doc/eslint/Eslint%20%E8%B6%85%E7%AE%80%E5%8D%95%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.md)
     - 前后台接口规范工具 Swagger
